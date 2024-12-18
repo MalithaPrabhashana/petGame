@@ -1,6 +1,8 @@
-# Pet Game
+# petGame
 
 Welcome to the interactive pet care game! This is a simple game where you take care of a virtual pet by feeding, playing, and sleeping with it. Each activity affects the pet’s hunger, happiness, and energy levels.
+
+This game has been written using **Jaclang**, a spatial programming language designed for interactive applications.
 
 ## Features
 
@@ -24,5 +26,4 @@ If you manage to balance your pet’s hunger, happiness, and energy for an exten
 To start the game, simply run the code and follow the on-screen prompts to choose activities for your pet.
 
 Still this is in the Initial Stage. So, we'll update this step by step.
-
 Enjoy the game and take good care of your pet!
