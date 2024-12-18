@@ -23,4 +23,6 @@ If you manage to balance your pet’s hunger, happiness, and energy for an exten
 
 To start the game, simply run the code and follow the on-screen prompts to choose activities for your pet.
 
+Still this is in the Initial Stage. So, we'll update this step by step.
+
 Enjoy the game and take good care of your pet!
