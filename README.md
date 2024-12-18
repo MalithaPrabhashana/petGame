@@ -1,4 +1,4 @@
-# petGame
+# Pet Game
 
 Welcome to the interactive pet care game! This is a simple game where you take care of a virtual pet by feeding, playing, and sleeping with it. Each activity affects the pet’s hunger, happiness, and energy levels.
 
